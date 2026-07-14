@@ -21,7 +21,7 @@ Welcome to my profile. I build software where three things intersect: **systems 
 - Real-time market data plumbing: exchange WebSocket feeds, sub-second alerting bots, and broker API integrations
 
 ## Toolbox
-`C++23` `Rust` `Go` `Python` `TypeScript` `PHP / Laravel` · `Linux` `io_uring` `nginx` `systemd` · `D3D11` `UE5` · `Claude Code` `LLM evals` · `options data at scale`
+`C++23` `Rust` `Go` `Python` `TypeScript` `PHP` · `Linux` `Windows` `nginx` `systemd` `D3D11` `UE5`
 
 ## Find me
 - 🌐 [skavinski.ai](https://skavinski.ai)
