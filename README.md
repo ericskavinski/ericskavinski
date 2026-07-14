@@ -14,7 +14,6 @@ Welcome to my profile. I build software where three things intersect: **systems 
 - Self-hosted LLM infrastructure, plus cost-tracking and observability tooling for AI-assisted development
 
 ### 📈 Markets
-- Founder of **[Skavinski](https://skavinski.ai)**: institutional-grade options analytics and derivatives education, including dealer-positioning heatmaps, earnings tools, and a structured learning academy
 - **Volatility research pipelines** that scan billions of rows of historical options data to measure the variance risk premium, end to end from raw ticks to daily signal
 - Real-time market data plumbing: exchange WebSocket feeds, sub-second alerting bots, and broker API integrations
 
