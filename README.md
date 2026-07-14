@@ -5,7 +5,6 @@ Welcome to my profile. I build software where three things intersect: **systems 
 ## What I work on
 
 ### ⚡ Performance & systems
-- From-scratch **io_uring event module for nginx**, benchmarked head-to-head against stock epoll builds
 - Edge proxy benchmarking: **nginx vs Cloudflare Pingora** (Rust) on real cloud networks, with published methodology
 - GPU and graphics work: **Direct3D 11** offscreen render pipelines, a 6-cascade **FFT ocean simulation** in Unreal Engine 5, and a single-file **C++23** fractal raymarcher where every C++23 feature is load-bearing
 - Small-systems problem solving, like running modern Node.js on a decade-old musl router by bundling the Alpine loader
