@@ -16,16 +16,13 @@ Welcome to my profile. I build software where three things intersect: **systems 
 - Self-hosted LLM infrastructure, plus cost-tracking and observability tooling for AI-assisted development
 
 ### 📈 Markets
-- Founder of **[Skavinski](https://skavinski.com)**: institutional-grade options analytics and derivatives education, including dealer-positioning heatmaps, earnings tools, and a structured learning academy
+- Founder of **[Skavinski](https://skavinski.ai)**: institutional-grade options analytics and derivatives education, including dealer-positioning heatmaps, earnings tools, and a structured learning academy
 - **Volatility research pipelines** that scan billions of rows of historical options data to measure the variance risk premium, end to end from raw ticks to daily signal
 - Real-time market data plumbing: exchange WebSocket feeds, sub-second alerting bots, and broker API integrations
-
-## Open source
-- Bug-fix pull requests to [UNIT3D](https://github.com/HDInnovations/UNIT3D) (Laravel), contributed through my lab org [@skavinski-lab](https://github.com/skavinski-lab)
 
 ## Toolbox
 `C++23` `Rust` `Go` `Python` `TypeScript` `PHP / Laravel` · `Linux` `io_uring` `nginx` `systemd` · `D3D11` `UE5` · `Claude Code` `LLM evals` · `options data at scale`
 
 ## Find me
-- 🌐 [skavinski.com](https://skavinski.com)
-- 🧪 [@skavinski-lab](https://github.com/skavinski-lab)
+- 🌐 [skavinski.ai](https://skavinski.ai)
+- ✉️ [eric@ericskavinski.com](mailto:eric@ericskavinski.com)
